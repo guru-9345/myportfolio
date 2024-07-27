@@ -1,5 +1,4 @@
-# Prasad Chavan's Personal Portfolio and Blog
-Link to live site: https://prasadchavan.me
+# Guru's Personal Portfolio and Blog
 
 
 ## Features
