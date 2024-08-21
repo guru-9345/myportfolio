@@ -1,4 +1,4 @@
-# Guru's Personal Portfolio and Blog
+# Guru's Personal Portfolio
 
 
 ## Features
